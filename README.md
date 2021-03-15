@@ -1,4 +1,8 @@
-# HCI-Assignment2 - My Covid App
+# HCI - Assignment2 - My Covid App
+
+<h2>Description</h2>
+The purpose of this app is primarly to cater to the senior population and people in need. The app has a volunteer chat option, where these people can get in contact with a volunteer in order to recieve the aid that they require. Additionally, this app consists of some additional features such as Covid-19 statistics in Canada and Ontario and a guideline that is reccomended to follow in order to stay safe during this pandemic
+
 
 <h2>Features</h2> 
 
