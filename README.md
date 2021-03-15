@@ -1,6 +1,6 @@
 # HCI-Assignment2 - My Covid App
 
-**Features: **
+**Features** 
 
 - Signup 
 - Login
