@@ -27,3 +27,10 @@
 - Live chat option with a health professional
 - Payment to volunteer feature, to allow them to buy groceries and other essential needs for senior/people in need
 - Volunteer of the month, so people that volunteer can get recognized for their work
+
+
+<h2>Figma Public Link</h2>
+https://www.figma.com/file/VwGR3A2wD5dPS7RqlQJ9AI/Covid-19-App-Assignment2-Aditya-C?node-id=0%3A1
+
+<h2>YouTube Video Link</h2>
+https://youtu.be/u3P8WhdweW4
