@@ -5,5 +5,8 @@
 - Signup 
 - Login
 - Forgot Password
-- Covid-19 St
+- Edit Profile Screen
+- Covid-19 Statistics for Canada & Ontario
+- Covid-19 Safety Measures 
+- Chat Option with a Volunteer
 
